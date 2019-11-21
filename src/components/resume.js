@@ -17,7 +17,7 @@ class Resume extends Component {
     return(
       <div>
         <Grid>
-          <Cell col={4}>
+          <Cell col={4} phone={12} tablet={12}>
             <div style={{textAlign: 'center'}}>
               <img
                 className="myProfilePic"

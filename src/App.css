@@ -72,7 +72,7 @@
 /* contact page css */
 
 .avatar-img {
-  height: 250px;
+  height: 400px;
   padding-top: 5em;
 }
 
@@ -114,3 +114,24 @@
   font-size: 5em;
   padding: 8px;
 }
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 450px) {
+  .banner-text h1 {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .avatar-img {
+    height: 310px;
+    padding-top: 2em;
+  }
+  span {
+    font-size : 19px;
+  }
+  .contact-list i {
+    font-size: 30px;
+    padding-right: 7px;
+}
+  }
