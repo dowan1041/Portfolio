@@ -72,8 +72,8 @@
 /* contact page css */
 
 .avatar-img {
-  height: 400px;
-  padding-top: 5em;
+  height: 380px;
+  padding-top: 2em;
 }
 
 .banner-text {
@@ -124,7 +124,7 @@
     padding-right: 10px;
   }
   .avatar-img {
-    height: 310px;
+    height: 300px;
     padding-top: 2em;
   }
   span {
@@ -133,5 +133,5 @@
   .contact-list i {
     font-size: 30px;
     padding-right: 7px;
-}
   }
+}
