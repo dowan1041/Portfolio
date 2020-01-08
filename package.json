@@ -1,6 +1,7 @@
 {
   "name": "myportfoliosite",
   "version": "0.1.0",
+  "homepage": "http://dowankim.info",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
